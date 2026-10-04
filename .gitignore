@@ -1,0 +1,9 @@
+/target
+/result
+/result-*
+/.direnv
+/.env
+/*.macaroon
+/*.token
+/*.redb
+/*.redb.repair
